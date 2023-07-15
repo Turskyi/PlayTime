@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "756183755959",
+    "project_id": "play-time-2d",
+    "storage_bucket": "play-time-2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756183755959:android:215103f6c82e1efc0e3132",
+        "android_client_info": {
+          "package_name": "io.github.turskyi.playtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756183755959-dumfkg9hmjapkq9kck6b86sbqpf9gqjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfC2TdPFTBFasRe0nW1O2br6mSc6MZAN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756183755959-dumfkg9hmjapkq9kck6b86sbqpf9gqjf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756183755959-im987lr8dpuu9m3oh1nc686gvtrio233.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.turskyi.playtime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
