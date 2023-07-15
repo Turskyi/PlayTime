@@ -11,6 +11,30 @@
         "source": "**",
         "destination": "/index.html"
       }
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(js|css)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=31536000"
+          }
+        ]
+      },
+      {
+        "source": "**/*.@(js|css).br",
+        "headers": [
+          {
+            "key": "Content-Encoding",
+            "value": "br"
+          },
+          {
+            "key": "Cache-Control",
+            "value": "max-age=31536000"
+          }
+        ]
+      }
     ]
   }
 }
