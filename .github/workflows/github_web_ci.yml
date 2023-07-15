@@ -17,4 +17,4 @@ jobs:
           args: deploy --only hosting --public build
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-          PROJECT_ID: playtime
+          PROJECT_ID: play-time-2d
