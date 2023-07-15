@@ -2,8 +2,7 @@
 
 # Play Time
 
-An Android mobile 2D game, which gives an opportunity to play with a character by simply tapping on
-the screen.
+A web 2D game allows playing with a character by using left and right keyboard keys for navigating left and right and space for jumping.
 
 ## PROJECT SPECIFICATION
 
@@ -22,8 +21,8 @@ the screen.
 
 • **Code Readability:** code is easily readable such that a fellow programmer can understand the
 purpose of the app, all variables, methods, and resource IDs are descriptively named such that
-another developer reading the code can easily understand their function, no unnecessary blank lines,
-no unused variables or methods, no commented out code.
+another developer reading the code can easily understand their function, with no unnecessary blank lines,
+no unused variables or methods, no commented-out code.
 
 • Screenshots:
 
