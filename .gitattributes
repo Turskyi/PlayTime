@@ -2,7 +2,7 @@
 Library/** linguist-vendored
 Temp/** linguist-vendored
 obj/** linguist-vendored
-build/Build/** linguist-vendored
+build/** linguist-vendored
 Logs/** linguist-vendored
 
 # Ignore external packages
