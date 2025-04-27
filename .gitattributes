@@ -9,3 +9,6 @@ Logs/** linguist-vendored
 Packages/** linguist-vendored
 ProjectSettings/** linguist-vendored
 UserSettings/** linguist-vendored
+
+# Ignore firebase SDK code
+Assets/firebase/** linguist-vendored
