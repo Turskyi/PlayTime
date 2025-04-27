@@ -1,0 +1,11 @@
+# Ignore Unity-generated folders
+Library/** linguist-vendored
+Temp/** linguist-vendored
+obj/** linguist-vendored
+build/Build/** linguist-vendored
+Logs/** linguist-vendored
+
+# Ignore external packages
+Packages/** linguist-vendored
+ProjectSettings/** linguist-vendored
+UserSettings/** linguist-vendored
